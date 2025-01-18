@@ -1,6 +1,4 @@
 
-Install dependencies: pip install -r requirements.txt
-
 
 |───checkpoints_mysam
 │       mysam_model_best.pth
